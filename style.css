@@ -36,14 +36,14 @@
   display: flex;
 }
 .task-items {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .task-items, .section-title {
-  list-style:none;
+  list-style: none;
 }
 .input,.button{
-  outline:none;
+  outline: none;
 }
 .button {
   background: none;
@@ -136,14 +136,14 @@ label[for="new-task"] {
 
 /* Edit Task */
 .task-item input[type="text"] {
-  display:none
+  display: none
 }
 
 .edit-mode input[type="text"] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .label {
-  display:none;
+  display: none;
 }
